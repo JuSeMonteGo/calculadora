@@ -206,7 +206,7 @@ public class MainActivity extends AppCompatActivity {
         ope=13;
     }
 
-    public void factorial (View v) {
+    public void logaritmo (View v) {
         try{
             String aux1= scrn.getText().toString();
             num1= Double.parseDouble(aux1);
